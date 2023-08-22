@@ -10,9 +10,7 @@ fn main() {
         if Command::new("clear").status().unwrap().success() {
             sys.refresh_all();
             println!("System name:\t{:?}", sys_name);
-            for cpu in sys.cpus() {
-                println!("{} usage:\t{} %", cpu.name(), cpu.cpu_usage());
-            }
+            for cpu in sys.cpus() { println!("{} usage:\t{} %", cpu.name(), cpu.cpu_usage()); }
             println!("RAM capacity:\t{} MB", sys.total_memory()/1048576);
             println!("RAM usage:\t{} MB", sys.used_memory()/1048576);
             println!("press [CTRL + C] to exit...");
