@@ -1,6 +1,6 @@
 use std::process::Command;
 use sysinfo::{CpuExt, System, SystemExt};
-//NetworkExt, NetworksExt, ProcessExt, CpuExt, 
+
 fn main() {
     let mut sys = System::new_all();
     let mut sys_name = format!("{:?}", sys.name());
