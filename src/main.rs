@@ -25,6 +25,12 @@ fn main() {
         syscol = [255, 100, 0];
     } else if sys_name == "Windows" {
         syscol = [40, 198, 201];
+    } else if sys_name == "Arch Linux" {
+        syscol = [23, 217, 178];
+    } else if sys_name == "Linux Mint" {
+        syscol = [138, 226, 52];
+    } else if sys_name == "EndeavourOS" {
+        syscol = [196, 58, 224];
     } else {
         syscol = [180, 180, 180];
     }
