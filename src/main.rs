@@ -22,8 +22,7 @@ fn main() {
     let badcol = [190, 0, 0];
 
     if sys_name == "Ubuntu" {
-        syscol = [180, 180, 180];
-        //syscol = [255, 100, 0];
+        syscol = [255, 100, 0];
     } else if sys_name == "Windows" {
         syscol = [40, 198, 201];
     } else {
