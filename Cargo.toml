@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 sysinfo="0.29.8"
 colored = "2"
+directories = "5.0.1"
