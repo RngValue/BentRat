@@ -22,5 +22,5 @@
   <li>Done!</li>
 </ol>
 <h2>Links related to the repo:</h2>
-<p><a href="https://github.com/RngValue/BentRat/blob/main/LICENSE">LICENSE</a></p>
-<p><a href="https://github.com/RngValue/BentRat/blob/main/CODE_OF_CONDUCT.md">CODE OF CONDUCT</a></p>
+<p><a href="https://github.com/RngValue/BentRat/blob/main/LICENSE"><strong>LICENSE</strong></a></p>
+<p><a href="https://github.com/RngValue/BentRat/blob/main/CODE_OF_CONDUCT.md"><strong>CODE OF CONDUCT</strong></a></p>
