@@ -25,3 +25,5 @@
 <p><a href="https://github.com/RngValue/BentRat/blob/main/LICENSE"><strong><strong>LICENSE</strong></strong></a></p>
 <p><a href="https://github.com/RngValue/BentRat/blob/main/CONTRIBUTING.md"><strong><strong>CONTRIBUTING</strong></strong></a></p>
 <p><a href="https://github.com/RngValue/BentRat/blob/main/CODE_OF_CONDUCT.md"><strong><strong>CODE OF CONDUCT</strong></strong></a></p>
+<p><a href="https://github.com/RngValue/BentRat/blob/main/.github/ISSUE_TEMPLATE/bug_report.md"><strong><strong>BUG REPORT</strong></strong></a></p>
+<p><a href="https://github.com/RngValue/BentRat/blob/main/.github/ISSUE_TEMPLATE/feature_request.md"><strong><strong>FEATURE REQUEST</strong></strong></a></p>
