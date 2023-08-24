@@ -13,7 +13,7 @@
 <p>The code is only a few lines and isn't complicated. I believe you can do it...</p>
 <h2>Installation:</h2>
 <ol>
-  <li>Clone the repository...<br><pre><code>git clone https://github.com/RngValue/BentRat</code></pre></li>
+  <li>Clone the repository...<br><pre><code>git clone https://github.com/RngValue/BentRat</code></pre>(In case you really want those extra Kilobytes of space you can delete everything except the <code>/bin</code> folder...)</li>
   <li><ul>
     <li><strong>On Linux</strong>, create a symbolic link for the executable file...<br><pre><code>ln -s /path_to_bentrat/bin/bentrat-linux bentrat</code></pre></li>
     <li><strong>On Windows</strong>, add the path to <code>/bentrat-win.exe</code> into the PATH environment variable...<br><sub>(In case you don't want to type out <code>bentrat-win</code>, you can always rename the executable to just <code>bentrat.exe</code>)</sub><br><pre><code>/path_to_bentrat/bin/</code></pre></li>
