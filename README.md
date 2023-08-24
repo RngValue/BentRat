@@ -22,6 +22,6 @@
   <li>Done!</li>
 </ol>
 <h2>Links related to the repo:</h2>
-<p><a href="https://github.com/RngValue/BentRat/blob/main/LICENSE"><strong>LICENSE</strong></a></p>
-<p><a href="https://github.com/RngValue/BentRat/blob/main/CONTRIBUTING.md">CONTRIBUTING</a></p>
-<p><a href="https://github.com/RngValue/BentRat/blob/main/CODE_OF_CONDUCT.md"><strong>CODE OF CONDUCT</strong></a></p>
+<p><a href="https://github.com/RngValue/BentRat/blob/main/LICENSE"><strong><strong>LICENSE</strong></strong></a></p>
+<p><a href="https://github.com/RngValue/BentRat/blob/main/CONTRIBUTING.md"><strong><strong>CONTRIBUTING</strong></strong></a></p>
+<p><a href="https://github.com/RngValue/BentRat/blob/main/CODE_OF_CONDUCT.md"><strong><strong>CODE OF CONDUCT</strong></strong></a></p>
