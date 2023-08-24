@@ -21,3 +21,6 @@
   <li>You might need to enable "allow executing file as program" in the <code>bentrat-linux</code> properties</li>
   <li>Done!</li>
 </ol>
+<h2>Links related to the repo:</h2>
+<p><a href="https://github.com/RngValue/BentRat/blob/main/LICENSE">LICENSE</a></p>
+<p><a href="https://github.com/RngValue/BentRat/blob/main/CODE_OF_CONDUCT.md">CODE OF CONDUCT</a></p>
