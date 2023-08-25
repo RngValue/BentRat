@@ -22,7 +22,7 @@
   <li>Due to my own error, indentations are 4 spaces long</li>
   <li>Nesting if statements more than 3 times is a crime and you should be ashamed<br><sub>(be happy that BentRat's written in Rust. If it were written in C++, 4 or more indentations ANYWHERE would be banned)</sub></li>
   <li>The use of comments is optional, but be sure to use comments to justify your complicated implementations</li>
-  <li>Declare variables at the very top of the main function. We don't declare variables in loops</li>
+  <li>Declare variables where they make the most sense. We don't declare variables in loops</li>
 </ul>
 
 <h2>License</h2>
