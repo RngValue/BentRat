@@ -73,7 +73,7 @@ show_ram_usage=true</code></pre>
 <p>You can change the RGB values of <code>system_color</code>, <code>accent_color</code> and colors for indicators.</p>
 <ul>
 <li><p><code>system_color</code> requires you to enable <code>use_custom_color</code>, because by default a very specific color chosen by me will be used depending on your operating system instead.</p>
-  <p>Changes the color of both the ASCII art and the name of your operating system.</p></li>
+  <p>Changes the color of both the ASCII art and the displayed name of your operating system.</p></li>
 <li><p><code>accent_color</code> is used for labels like <code>RAM usage:</code></p></li>
 <li><code>good_color</code> changes the color of the indicator if its value is below 50%</li>
 <li><code>ok_color</code> changes the color of the indicator if its value is above 50%</li>
