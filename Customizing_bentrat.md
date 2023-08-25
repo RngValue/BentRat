@@ -35,7 +35,7 @@ show_ram_capacity=true
 show_ram_usage=true</code></pre>
 <h3>Changing the ASCII art</h3>
 <p>Probably the most fun thing here.</p>
-<p>This property specifies whether you want to use a different <strong>text file containing the ASCII art</strong> or not.</p>
+<p>This property specifies whether you want to use a different <strong>text file containing the ASCII art</strong> or one of the preinstalled ones depending on your operating system.</p>
 <pre><code>use_custom_ascii_art=true</code></pre>
 <p>This property specifies which text file within the config directory will be used.</p>
 <pre><code>custom_ascii_art=myasciiartlol</code></pre>
