@@ -4,13 +4,8 @@
 <p>Small console program written in <a href="https://www.rust-lang.org/">Rust</a> for watching shit happen.</p>
 <img width=120 src="https://c.tenor.com/jomR5uqWXzMAAAAd/real-horizontally-spinning-rat.gif">
 <h2>Customization:</h2>
-<p>A config file is currently <strong>Work in Progress</strong>.</p>
-<p>Right now, to customize BentRat, you need:</p>
-<ul>
-  <li>Basic programming knowledge</li>
-  <li>Cargo (and incase you want extra features also learn <a href="https://www.rust-lang.org/">Rust</a>)</li>
-</ul>
-<p>The code is only a few lines and isn't complicated. I believe you can do it...</p>
+<p>A config directory gets created if it doesn't exist and you can edit it as much as you want!</p>
+<p>For more information on how to customize your BentRat, check out <a href="https://github.com/RngValue/BentRat/blob/main/Customizing_bentrat.md">Customizing your BentRat</a>.</p>
 <h2>Installation:</h2>
 <ol>
   <li>Clone the repository...<br><pre><code>git clone https://github.com/RngValue/BentRat</code></pre>(In case you really want those extra Kilobytes of space you can delete everything except the <code>/bin</code> folder...)</li>
