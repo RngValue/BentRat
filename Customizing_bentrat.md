@@ -16,9 +16,18 @@
 
 <h2>Explaining <code>Config.ini</code> as if I were talking to a child</h2>
 <p>We'll go through each sections of <code>Config.ini</code>, breaking down every property.</p>
-<h3>System statistics</h3>
-<p><code>start_line</code> specifies on which line the stats on the right side start. Pretty self explanatory.</p>
+<h3>Changing on which line statistics start to appear</h3>
+<p>The value of <code>start_line</code> determines where statistics start.</p>
 <pre><code>start_line=0</code></pre>
+<p>Since everything on computers starts with 0:</p>
+<ol>
+  <p>0. first line</p>
+  <p>1. second line</p>
+  <p>2. third line</p>
+  <p>3. fourth line</p>
+  <p>4+. ...</p>
+</ol>
+<h3>System statistics</h3>
 <p>All of these make, exactly what you think, visible.</p>
 <pre><code>show_system_name=true
 show_cpu_usage=true
@@ -70,15 +79,5 @@ show_ram_usage=true</code></pre>
 <li><code>ok_color</code> changes the color of the indicator if its value is above 50%</li>
 <li><code>bad_color</code> changes the color of the indicator if its value is equel to 100%</li>
 </ul>
-<h3>Changing on which line statistics start to appear</h3>
-<p>The value of <code>start_line</code> determines the where statistics start.</p>
-<p>Since everything on computers starts with 0:</p>
-<ol>
-  <p>0. first line</p>
-  <p>1. second line</p>
-  <p>2. third line</p>
-  <p>3. fourth line</p>
-  <p>4+. ...</p>
-</ol>
 
 <h2>That's it folks!</h2>
