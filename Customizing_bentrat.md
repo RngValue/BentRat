@@ -70,7 +70,7 @@ show_ram_usage=true</code></pre>
                   ██  ░░  ██
                     ██████</code></pre>
 <h3>Changing the colors</h3>
-<p>You can change the RGB values of system_color, accent_color and colors for indicators.</p>
+<p>You can change the RGB values of <code>system_color</code>, <code>accent_color</code> and colors for indicators.</p>
 <ul>
 <li><p><code>system_color</code> requires you to enable <code>use_custom_color</code>, because by default a very specific color chosen by me will be used depending on your operating system instead.</p>
   <p>Changes the color of both the ASCII art and the name of your operating system.</p></li>
