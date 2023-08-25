@@ -28,7 +28,7 @@
   <p>4+. ...</p>
 </ol>
 <h3>System statistics</h3>
-<p>All of these make, exactly what you think, visible.</p>
+<p>All of these make, exactly what they say, visible.</p>
 <pre><code>show_system_name=true
 show_cpu_usage=true
 show_ram_capacity=true
