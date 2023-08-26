@@ -1,7 +1,7 @@
 <h1 align=center>BentRat</h1>
 <p align=center><img width=620 src="https://github.com/RngValue/BentRat/blob/main/readme_res/bentrat_in_action.png"></p>
 <h2>About:</h2>
-<p>Small CLI tool written in <a href="https://www.rust-lang.org/">Rust</a> for watching shit happen.</p>
+<p>Small CLI tool written in <a href="https://www.rust-lang.org/">Rust</a> for watching shit happen. (currently WIP)</p>
 <p>Works on Linux and Windows.</p>
 <img width=120 src="https://c.tenor.com/jomR5uqWXzMAAAAd/real-horizontally-spinning-rat.gif">
 <h2>Customization:</h2>
