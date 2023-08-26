@@ -81,3 +81,4 @@ show_ram_usage=true</code></pre>
 </ul>
 
 <h2>That's it folks!</h2>
+<img src="https://media.tenor.com/jomR5uqWXzMAAAAd/real-horizontally-spinning-rat.gif">
