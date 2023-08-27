@@ -7,7 +7,7 @@
   <li>Windows: <code>C:\Users\Username\AppData\Roaming\CodMan\BentRat</code></li>
 </ul>
 <p>If you can't locate the config files, make sure you have actually ran BentRat atleast once on your system.</p>
-<p>The contents of the config folder should look something like this:</p>
+<p>The contents of the config directory should look something like this:</p>
 <pre><code>/bentrat
   - <i>a bunch of .txt files</i>
   - Config.ini
