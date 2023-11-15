@@ -15,7 +15,7 @@
 <p>If you still can't locate the config files, then make sure to run the thing!</p>
 
 <h2>Explaining <code>Config.ini</code> as if I were talking to a child</h2>
-<p>We'll go through each sections of <code>Config.ini</code>, breaking down every property.</p>
+<p>We'll go through each section of <code>Config.ini</code>, breaking down every property.</p>
 <h3>Changing on which line statistics start to appear</h3>
 <p>The value of <code>start_line</code> determines where statistics start.</p>
 <pre><code>start_line=0</code></pre>
