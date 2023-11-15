@@ -69,7 +69,7 @@ show_ram_usage=true</code></pre>
                 ██████░░████
                   ██  ░░  ██
                     ██████</code></pre>
-<p><sub>(stop laughing about the stats... I use WSL...)</sub></p>
+<p><sub>(stop laughing at my stats... I use WSL...)</sub></p>
 <h3>Changing the colors</h3>
 <p>You can change the RGB values of <code>system_color</code>, <code>accent_color</code> and colors for indicators.</p>
 <ul>
