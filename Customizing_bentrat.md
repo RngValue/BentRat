@@ -16,7 +16,7 @@
 
 <h2>Explaining <code>Config.ini</code> as if I were talking to a child</h2>
 <p>We'll go through each section of <code>Config.ini</code>, breaking down every property.</p>
-<h3>Changing on which line statistics start to appear</h3>
+<h3>Adjusting position</h3>
 <p>The value of <code>start_line</code> determines where statistics start.</p>
 <pre><code>start_line=0</code></pre>
 <p>Since everything on computers starts with 0:</p>
@@ -38,7 +38,7 @@ show_ram_usage=true</code></pre>
 <p>This property specifies whether you want to use a different <strong>text file containing the ASCII art</strong> or one of the preinstalled ones depending on your operating system.</p>
 <pre><code>use_custom_ascii_art=true</code></pre>
 <p>This property specifies which text file within the config directory will be used.</p>
-<pre><code>custom_ascii_art=myasciiartlol</code></pre>
+<pre><code>custom_ascii_art=myasciiartlol   (without the "*.txt")</code></pre>
 <p>For example, I created a text file with the name <strong>men.txt</strong> and put in whatever ASCII art I wanted.</p>
 <pre><code>/bentrat
   - <i>a bunch of .txt files</i>
