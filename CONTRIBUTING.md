@@ -13,7 +13,7 @@
   <li>Fork the <code>main</code> branch</li>
   <li>Make changes</li>
   <li>Open a pull request</li>
-  <li>And wait for feedback. Sometimes we might merge your additions into the <code>main</code> branch without questions</li>
+  <li>And wait for feedback. Sometimes we (I) might merge your additions into the <code>main</code> branch without questions</li>
 </ol>
 
 <h2>Following Code Patterns</h2>
